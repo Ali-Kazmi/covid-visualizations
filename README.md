@@ -1,6 +1,5 @@
-# covid-visualizations
-Here I'll be putting some visualizations I made in the process of trying to make sense of the covid situation. Uses Python, Pandas, and occasionally Seaborn. The charts focus on age distribution of cases and deaths. 
+# covid-visualization
 
-The main plot is at the top, where I bypass the issues of different sources giving age categories by using some statistics and approximations (Kernal Density Estimation).
+These visualizations are for a paper being worked on with Profesor Heinrich Matzinger of Georgia Tech's school of mathematics. Profesor Raphael Hauser from Oxford and Professor Fabio Machado from the University of Sao Paulo are also involved in this paper. The goal is to understand covid mortality by age. Preprint link here will be added soon. 
 
-Click on the ipynb to view the results and code in github. (Or launch it yourself with google colab or jupyter) 
+Used Python, Pandas, Matplotlib and occasionally Seaborn. The charts focus on age distribution of cases and deaths, for many (many) places. 
